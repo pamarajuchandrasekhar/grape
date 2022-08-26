@@ -2,7 +2,7 @@ package gra;
 
 /**
  * Hello world!
- * welcome to allof you
+ * welcome to allof you for this
  *
  */
 public class App 
